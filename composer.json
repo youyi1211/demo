@@ -1,0 +1,14 @@
+{
+    "name": "youyi1211/demo",
+    "description": "learn composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jack",
+            "email": "fy2009ayi@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
